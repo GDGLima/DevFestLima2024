@@ -33,7 +33,7 @@ Talleres :
 Expositor | Tema  | Taller | 
 ------------ | ------------- | ------------- |
 Roy Surjano | Optimización de aplicaciónes web vía Prompt Engineering |[<img src="https://img.icons8.com/?size=18&id=12071&format=png">]()
-Lesly Samaritano | Generando contenido con la API de Gemini en la IU de Flutter |[<img src="https://img.icons8.com/?size=18&id=12071&format=png">](https://drive.google.com/file/d/1bqMTOA1R_88sBm6NWgFP8GHakXHTYTJx/view?usp=drive_lin)k
+Lesly Samaritano | Generando contenido con la API de Gemini en la IU de Flutter |[<img src="https://img.icons8.com/?size=18&id=12071&format=png">](https://drive.google.com/file/d/1bqMTOA1R_88sBm6NWgFP8GHakXHTYTJx/view?usp=sharing)
 Miguel Angel Cotrina | Creación de Pipelines de Datos con Apache Beam y Google Cloud Dataflow |[<img src="https://img.icons8.com/?size=18&id=12071&format=png">](https://github.com/macespinoza/IngestaDataflowLake_v02)
 Percy Tuncar | Diseño y Desarrollo Simplificado con Next.js |[<img src="https://img.icons8.com/?size=18&id=12071&format=png">](https://drive.google.com/file/d/1Yw1i7FDBmkQkuAmc5kCus7OqPPcm1uwo/view?usp=sharing)
 
