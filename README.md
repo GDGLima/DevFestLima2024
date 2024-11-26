@@ -1,5 +1,5 @@
 <a href="https://photos.app.goo.gl/Tqei4nHorAZd7v7G7">
-    <img src="images/devfestlima2024.jpg" alt="Logo" width="580" height="580">
+    <img src="images/devfestlima2024.jpg" alt="Logo" width="980" height="960">
  </a>
 
 # DevFest Lima 2024
